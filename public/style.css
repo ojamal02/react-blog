@@ -1,0 +1,62 @@
+/* your styles, here */
+
+body {
+background: linear-gradient(slategrey, white);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.header-block {
+  background-image: url(http://i.imgur.com/fcm7xaL.jpg);
+  background-size: cover;
+  text-align: center;
+  opacity: .95;
+  border-style: solid;
+  border-width: 3px;
+  color: white;
+  border-color: black;
+}
+
+.header-block h1 {
+  padding: .5em;
+  font-size: 4em;
+}
+
+.article-tile {
+  background-color: lightgrey;
+  opacity: .95;
+
+}
+
+.article-tile p {
+  padding: .25em;
+}
+
+.article-link {
+  color: black;
+}
+
+.new-article-form {
+  background-color: silver;
+  opacity: .95;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+}
+
+.form-field {
+  background-color: oldlace;
+}
+
+.button {
+  background-color: slategray;
+  color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+a:hover {
+  color: darkslategrey;
+  cursor: url(http://i.imgur.com/hduJnvy.png), auto;
+}

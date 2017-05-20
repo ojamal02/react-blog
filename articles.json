@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Optimality Theory",
+      "body": "Optimality theory suggests that there is an ideal anatomical form for any particular enviornmental niche. Evidence to support this idea is the relatively similar body plans of Icthyasaurs, Dolphins, and Sharks. "
+    },
+    {
+      "id": 2,
+      "title": "In Bruges ",
+      "body": "It's a really well done thoughtful movie, if anything it is underhyped. "
+    },
+    {
+      "id": 3,
+      "title": "Thoughts on Tone Woods ",
+      "body": "I am really fond of how rounded Walnut sounds, but at times a good bright Birdseye Maple is really quite nice. "
+    },
+    {
+      "id": 4,
+      "title": "An Ode to John Cazale ",
+      "body": "The Godfather, The Deer Hunter, The Conversation, The Godfather part II, and Dog Day Afternoon. All five are excellent movies that really hold up. Cazale may have a rather small filmography, but at least he was consistently good . "
+    },
+    {
+      "id": 5,
+      "title": "The Terminator Paradox",
+      "body": "Kyle Reese is supposedly the father of John Connor in Terminator. This is all fine until you think about a huge issue. For John Connor to send Kyle Reese back in time to guard his mother John Connor would already need to exist prior to him sending Kyle Reese. "
+    },
+    {
+      "id": 6,
+      "title": "How to write a Tom Waits song ",
+      "body": "Mention a large number of depressing and bizarre things that only Depression-Era vagabonds would identify with. "
+    }
+  ]
+}
